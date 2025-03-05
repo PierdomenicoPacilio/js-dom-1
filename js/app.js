@@ -1,4 +1,4 @@
-document.getElementById("interruttore").addEventListener("click", function () {
+document.getElementById("interruttore").addEventListener ("click", function () {
     // DICHIARAZIONE DELLE VARIABILI COLLEGATE CON L'HTML
     let img = document.getElementById("lampadina");
     let element = document.getElementById("sfondo"); 
